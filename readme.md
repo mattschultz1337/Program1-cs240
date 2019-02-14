@@ -1,6 +1,6 @@
 #### CS 240 - Spring 2019
 ### PROGRAM 1 README FILE
-##Matthew Schultz and Maeve Farrell
+//Matthew Schultz and Maeve Farrell
 ## KNOWN BUGS AND INCOMPLETE PARTS:
 - What parts of the program you were not able to complete
 
